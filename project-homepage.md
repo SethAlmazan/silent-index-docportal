@@ -13,7 +13,8 @@
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 |---------------|------------------|------------|----------------|-------------|
-| Feb 13, 2026 | v1.0 | Initial Documentation Portal Setup | SI-001 | Silent Index Team |
+| Feb 13, 2026 | v1.0 | Initial Documentation Portal Setup | SI-001 | Seth Almazan <br> *Project Manager*|
+                                                                      
 
 ---
 
