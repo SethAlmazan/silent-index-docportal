@@ -1,22 +1,25 @@
 # Silent Index
 
+**Target:** AB.010.001  
 **Project Title:** Chainventory: Chainsaw Management System using React for DENR-Eastern Samar  
 **Internal Codename:** Silent Index  
 **Document Type:** Design Specifications  
 **Version:** 1.0  
-**Date:** February __, 2026  
+**Date:** February 13, 2026  
 
 ---
 
 ## Revision History
 
-| Version | Date | Description | Author |
-|---------|------|------------|--------|
-| 1.0 | Feb 13, 2026 | Initial Documentation Portal Setup | Seth Almazan |
+| Revision Date | Document Version | Description | Tracking Notes | Approved By |
+|---------------|------------------|------------|----------------|-------------|
+| Feb 13, 2026 | v1.0 | Initial Documentation Portal Setup | SI-001 | Silent Index Team |
 
 ---
 
 ## Site Map
+
+- [Project Homepage](project-homepage.md)
 
 ### Core Modules
 - [Authentication](authentication.md)
