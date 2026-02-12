@@ -2,7 +2,7 @@
 
 **Location:** Project Homepage > Authentication
 
-## Functional Description
+## Sign up
 This module handles user authentication and access control within the Silent Index system. It ensures that only authorized personnel can log in and access system features based on their assigned roles.
 
 ## Use Case Scenario
