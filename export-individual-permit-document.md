@@ -23,3 +23,6 @@ The Export Individual Permit Document feature allows an authorized user to gener
 | Alternate Flow | If the document cannot be generated or the selected record is unavailable, the system displays an error message.                                                                                                                                                                                                                             |
 | Postcondition  | An individual permit document is generated for the selected chainsaw record.                                                                                                                                                                                                                                                                 |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
