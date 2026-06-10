@@ -23,3 +23,6 @@ The View Reports and Analytics feature allows an authorized user to view summari
 | Alternate Flow | If no records are available, the system displays zero values or empty report data.                                                                                                                                                                                                                 |
 | Postcondition  | The user can view the summarized report and analytics information of the system.                                                                                                                                                                                                                   |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
