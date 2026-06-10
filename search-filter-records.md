@@ -23,3 +23,6 @@ The Search and Filter Records feature allows an authorized user to quickly find 
 | Alternate Flow | If no records match the search or filter criteria, the system displays an empty result or no matching records.                                                                                                                               |
 | Postcondition  | The user sees the filtered or searched list of chainsaw records.                                                                                                                                                                             |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
