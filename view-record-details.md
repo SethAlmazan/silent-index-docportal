@@ -23,3 +23,6 @@ The View Record Details feature allows an authorized user to open and review the
 | Alternate Flow | If the record details cannot be loaded, the system displays an error message.                                                                                                                                                                                                                    |
 | Postcondition  | The user can review the complete information of the selected chainsaw record.                                                                                                                                                                                                                    |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
