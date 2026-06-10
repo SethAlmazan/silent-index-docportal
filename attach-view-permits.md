@@ -23,3 +23,6 @@ The Attach and View Permit Images feature allows an authorized user to upload an
 | Alternate Flow | If the image upload fails or the file is invalid, the system displays an error message and does not attach the image.                                                                                                                                             |
 | Postcondition  | The selected permit or inspection images are attached to the chainsaw record and can be viewed by the user.                                                                                                                                                       |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
