@@ -23,3 +23,6 @@ The Register Chainsaw feature allows an authorized user to add a new chainsaw re
 | Alternate Flow | If required information is missing or an error occurs, the system does not save the record and displays an error message.                                                                                                                                                                                                                            |
 | Postcondition  | A new chainsaw registration record is added to the system.                                                                                                                                                                                                                                                                                           |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
