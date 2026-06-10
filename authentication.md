@@ -22,3 +22,8 @@ The Authentication module allows authorized users to access the Chainventory sys
 | Main Flow | 1. The user enters an email and password. <br> 2. The user clicks the login button. <br> 3. The system checks the account credentials. <br> 4. The system redirects the user to the dashboard after successful login. |
 | Alternate Flow | If the email or password is incorrect, the system displays an error message. |
 | Postcondition | The user is successfully logged in and can access the system. |
+
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
+
