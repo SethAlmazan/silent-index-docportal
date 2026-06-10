@@ -1,10 +1,11 @@
 # Silent Index
 
 **Target:** SI.010.001  
-**Project Title:** Chainventory: Chainsaw Management System using React for DENR-Eastern Samar  
+**Project Title:** Chainventory: A Web-Based DENR Eastern Samar Chainsaw Management System  
+**Application Name:** Chainventory  
 **Internal Codename:** Silent Index  
-**Document Type:** Design Specifications  
-**Version:** 1.0  
+**Document Type:** Design Specifications Document  
+**Document Version:** v1.0  
 **Date:** February 13, 2026  
 
 ---
@@ -12,37 +13,35 @@
 ## Revision History
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
-|---------------|------------------|------------|----------------|-------------|
-| Feb 13, 2026 | v1.0 | Initial Documentation Portal Setup | SI-001 | Seth Almazan <br> *Project Manager*|
-                                                                      
+|---|---|---|---|---|
+| 2026-02-13 | v1.0 | Initial documentation portal setup | SI.010.001 | Seth Almazan, Project Manager |
 
 ---
 
 ## Site Map
 
+### Project Homepage
 - [Project Homepage](project-homepage.md)
 
-### Core Modules
+### Authentication
 - [Authentication](authentication.md)
 
-- Chainsaw Registration
-  - [Register Chainsaw](register-chainsaw.md)
-  - [Attach and View Scanned Permits](attach-view-permits.md)
+### Chainsaw Registration
+- [Register Chainsaw](register-chainsaw.md)
+- [Attach and View Permit Images](attach-view-permits.md)
 
-- Chainsaw Record Management
-  - [Manage Chainsaw Records](manage-records.md)
-  - [Search and Filter Records](search-filter-records.md)
-  - [View Activity Log](view-activity-log.md)
+### Chainsaw Records Management
+- [Manage Chainsaw Records](manage-records.md)
+- [Search and Filter Records](search-filter-records.md)
+- [View Record Details](view-record-details.md)
 
-- Permit Monitoring
-  - [Monitor Permit Expiry / Alerts](monitor-permit-expiry.md)
+### Permit Monitoring
+- [Monitor Permit Status](monitor-permit-status.md)
 
-- Reporting
-  - [Generate Reports](generate-reports.md)
-  - [Download or Print Reports](download-print-reports.md)
+### Reports
+- [View Reports and Analytics](generate-reports.md)
+- [Export Individual Permit Document](export-individual-permit-document.md)
 
-- Administration
-  - [Backup and Export Data](backup-export-data.md)
 ---
 
 © 2026 Silent Index Team
