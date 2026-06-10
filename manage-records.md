@@ -23,3 +23,6 @@ The Manage Chainsaw Records feature allows an authorized user to view, update, a
 | Alternate Flow | If no records are available, the system displays an empty records list. If an update or delete action fails, the system displays an error message.                                                                                                                       |
 | Postcondition  | The selected chainsaw record is viewed, updated, deleted, or remains unchanged depending on the user action.                                                                                                                                                             |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
