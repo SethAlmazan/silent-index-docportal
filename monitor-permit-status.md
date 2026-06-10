@@ -23,3 +23,6 @@ The Monitor Permit Status feature allows an authorized user to check the status 
 | Alternate Flow | If no records are available, the system displays zero records or an empty list.                                                                                                                                                                                                                    |
 | Postcondition  | The user can identify the current status of chainsaw permit records.                                                                                                                                                                                                                               |
 
+## Navigation
+
+[Back to Project Homepage](project-homepage.md)
